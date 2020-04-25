@@ -197,22 +197,23 @@ $ns initial_node_pos $n24 30
 
 $n7 color red
 $ns at 0.0 "$n7 color red"
-
+$ns at 0.0 "$n7 label Attacked"
 $n13 color red
 $ns at 0.0 "$n13 color red"
-
+$ns at 0.0 "$n13 label Attacked"
 $n20 color green
 $ns at 0.0 "$n20 color green"
-
+$ns at 0.0 "$n20 label Source"
 $n21 color green
 $ns at 0.0 "$n21 color green"
-
+$ns at 0.0 "$n21 label Source"
 $n17 color blue
 $ns at 0.0 "$n17 color blue"
+$ns at 0.0 "$n17 label Destination"
 
 $n9 color blue
 $ns at 0.0 "$n9 color blue"
-
+$ns at 0.0 "$n9 label Destination"
 #===================================
 #        Multiple blackhole nodes         
 #===================================
