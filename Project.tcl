@@ -219,8 +219,8 @@ $ns at 0.0 "$n9 label Destination"
 #===================================
 
 #$ns at 1.8 "[$n1 set ragent_] blackhole"
-$ns at 2.0 "[$n7 set ragent_] blackhole"
-$ns at 2.0 "[$n13 set ragent_] blackhole"
+$ns at 0.0 "[$n7 set ragent_] blackhole"
+$ns at 0.0 "[$n13 set ragent_] blackhole"
 
 
 #===================================
